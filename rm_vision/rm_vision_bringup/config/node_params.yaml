@@ -18,7 +18,7 @@
     debug: true
 
     detect_color: 1
-    binary_thres: 170
+    binary_thres: 200
 
     light.min_ratio: 0.1
     armor.min_light_ratio: 0.8
